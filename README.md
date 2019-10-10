@@ -1,2 +1,2 @@
-# project-4-kawan
+# smkgiripuro
 Ini Adalah Projek Kyta
